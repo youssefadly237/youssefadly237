@@ -1,4 +1,4 @@
-# Youssef Adly
+# Jo. Adly
 
 - Assiut STEM School Senior (S'24)  
 - Second-year medical student (Minia National University)  
