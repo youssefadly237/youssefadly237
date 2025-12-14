@@ -1,4 +1,4 @@
-# Jo. Adly <sup>(Joseph / Youssef)</sup>
+# J. Adly <sup>(Joseph / Youssef)</sup>
 
 - Medical student, Minia National University (MBBCh, expected Dec 2029)  
 - Assiut STEM School (High School, '24)  
