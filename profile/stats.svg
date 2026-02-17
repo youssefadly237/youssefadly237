@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">J. Adly's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 194, Total PRs: 41, Total Issues: 36, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 194, Total PRs: 41, Total Issues: 37, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 160.0629774573502;
+        stroke-dashoffset: 159.85189400782977;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >36</text>
+      >37</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
