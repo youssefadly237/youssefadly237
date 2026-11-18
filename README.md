@@ -6,6 +6,7 @@
 - Medical student, Minia National University (MBBCh, expected Dec 2029)
 - Assiut STEM School (High School, '24)
 - Self-taught hobbyist coder (Linux, Python, Rust)
+- Working on [mneme](https://github.com/youssefadly237/mneme)
 
 <p align="center">
   <img height="200" src="./profile/stats.svg" />
